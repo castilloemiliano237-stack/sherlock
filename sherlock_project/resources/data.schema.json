@@ -1,4 +1,5 @@
-{
+{sherlock xxmaxxiix 
+
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Sherlock Target Manifest",
   "description": "Social media targets to probe for the existence of known usernames",
